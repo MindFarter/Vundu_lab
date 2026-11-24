@@ -1,4 +1,4 @@
-# Vundu_lab V0.1.0
+# Vundu_lab V0.1.0       [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/MindFarter/Vundu_lab)
 
 One local tool that takes an ESP32 project export from a folder to a running
 board: **Compile** it, **Flash** it, and **Monitor** it, all in one window, all
